@@ -1,2 +1,3 @@
-# hungarian-algorithm
-Hungarian algorithm
+# Hungarian algorithm
+
+https://en.wikipedia.org/wiki/Hungarian_algorithm
